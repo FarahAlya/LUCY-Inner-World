@@ -1,6 +1,6 @@
-==============================
+
    LUCY: Inner World (2025)
-==============================
+
 
 🎮 Project Type:
 Puzzle / Platformer
