@@ -25,6 +25,14 @@ Step into the world of **Lucy: Inner World**, where emotion and mechanics intert
 
 From reflective UI to thematic visuals, the journey is both challenging and heartfelt, offering players a deeper connection to Lucy’s quest for humanity.
 
+
+🎥 Trailer:
+[[Trailer Link Here](https://youtu.be/QNh0kPYD2Dc?si=SsHrDJ-7jOtPcvlb)]
+
+🎮 Full Gameplay Video:
+[ Gameplay Video Link Here](https://youtu.be/VwZ0HBTaTec?si=fp1ls7k6Fz2YhxmS)
+
+
 📌 Notes:
 - All rights reserved by Team ST4R.
 - Redistribution is not allowed without team consent.
